@@ -1,0 +1,10 @@
+* local-package-aliases
+
+package aliases for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/avodonosov/local-package-aliases.git   |
+| commit  | 3523696  |
+| systems | local-package-aliases |
+|---------+-------------------------------------------|
+
